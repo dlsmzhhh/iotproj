@@ -156,5 +156,3 @@ This project is licensed under the MIT License.
 
 - Thanks to the Raspberry Pi and Python communities for their resources and tools.
 - Special thanks to my CCIoT Prof Jiang Wenchao and TA Du Xiao for the guide.
-```
-
