@@ -158,4 +158,3 @@ This project is licensed under the MIT License.
 - Special thanks to my CCIoT Prof Jiang Wenchao and TA Du Xiao for the guide.
 ```
 
-This **README.md** provides a clear and structured guide for your project. Let me know if you want any adjustments!
