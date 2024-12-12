@@ -1,5 +1,7 @@
 # Raspberry Pi IoT Project
 
+Han Jin 1004886
+
 This project enables remote control of a robot using a Flask-based web app. It also features live video streaming using the Raspberry Pi camera module.
 
 ## Features
