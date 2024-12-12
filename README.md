@@ -50,7 +50,7 @@ This project enables remote control of a robot using a Flask-based web app. It a
 
 ### 2. Clone the Repository
 ```bash
-git clone https://github.com/your-repo/iotproj.git
+git clone https://github.com/dlsmzhhh/iotproj.git
 cd iotproj
 ```
 
